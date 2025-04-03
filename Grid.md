@@ -14,17 +14,6 @@ SwiftUI's `Grid` is a powerful layout container, introduced in SwiftUI 4 (iOS 16
 * **Alignment and Spacing Control:** Demonstrates how to control the alignment and spacing of grid content.
 * **Flexibility and Customization:** Provides examples showcasing the flexibility of `Grid` for various layout needs.
 
-## Getting Started
-
-1.  Clone the repository:
-
-    ```bash
-    git clone [repository URL]
-    ```
-
-2.  Open the project in Xcode.
-3.  Run the app on a simulator or device.
-
 ## Examples
 
 ### Basic Grid Layout
