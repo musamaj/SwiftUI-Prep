@@ -1,4 +1,7 @@
 
+App states
+
+https://www.linkedin.com/pulse/states-app-ios-understanding-lifecycle-application-hector-carmona-pjelc/
 
 Apple’s iOS Human Interface Guidelines (HIG) are a comprehensive set of best practices and design principles that help developers and designers create intuitive, consistent, and user-friendly apps. Here's a breakdown of the key takeaways and best practices from the HIG:
 
