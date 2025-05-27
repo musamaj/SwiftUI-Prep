@@ -68,3 +68,57 @@ Use SwiftUI’s system components (NavigationStack, Form, List) to automatically
 Take advantage of SF Symbols for consistent iconography.
 
 Embrace @Environment, @State, and @Binding for managing view state.
+
+### Things to follow
+
+When developing an iOS app, following Apple’s Human Interface Guidelines is key to creating a product that feels native, intuitive, and delightful. Here are the main things I focus on:"
+
+### 1. Platform Consistency
+Use standard UIKit or SwiftUI components wherever appropriate.
+
+Respect platform conventions for navigation, gestures, controls, and transitions.
+
+Example: Use tab bars for top-level navigation and swipe-to-delete for list items.
+
+### 2. User-Centric Design
+Prioritize usability and accessibility.
+
+Ensure content is legible with appropriate contrast, font sizes, and dynamic type support.
+
+Support VoiceOver, Reduce Motion, and other accessibility settings.
+
+### 3. Adaptive Layouts
+Design for all screen sizes using Auto Layout or SwiftUI’s responsive tools.
+
+Support Light and Dark Mode.
+
+Use safe area insets to avoid UI clipping on devices like iPhone X and later.
+
+### 4. Minimal and Focused UI
+Avoid clutter—display only what's needed and let content shine.
+
+Use clear hierarchy and affordances for interaction.
+
+Example: Use SF Symbols and native buttons to convey purpose clearly.
+
+### 5. Touch Interactions
+Ensure tap targets are at least 44x44 points.
+
+Provide responsive feedback—e.g., animations, haptics, or visual state changes.
+
+Avoid blocking interactions with unnecessary alerts or modals.
+
+### 6. Performance and Battery Efficiency
+Minimize unnecessary background activity.
+
+Use lazy loading, efficient animations, and Combine/async-await properly.
+
+### 7. Privacy and Permissions
+Only request necessary permissions and explain the need clearly.
+
+Respect the user’s data and comply with App Store Review Guidelines.
+
+### 8. Native Feel and Motion
+Use system animations and transitions (e.g., navigation push/pop).
+
+Follow Apple's gesture system unless there’s a strong reason to deviate.
